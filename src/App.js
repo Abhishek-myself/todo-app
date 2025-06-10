@@ -1,6 +1,6 @@
 import "./App.css";
-import TaskForm from "./TaskForm";
-import Task from "./Task";
+import TaskForm from "./components/TaskForm";
+import Task from "./components/Task";
 import { useEffect, useState } from "react";
 
 function App() {
